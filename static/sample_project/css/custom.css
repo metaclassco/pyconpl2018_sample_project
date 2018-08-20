@@ -1,0 +1,9 @@
+[v-cloak] {display: none}
+
+.row h3 {
+    margin-top: 2rem;
+}
+
+.form-error {
+    color: red;
+}
